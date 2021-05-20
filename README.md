@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuliaBiesieda
+- 👋 Hi, I’m @YuliiaBiesieda
 - 👀 I’m interested in programming, design and innovations.
 - 🌱 I’m currently learning Python and web-development
 - 💞️ I’m looking to collaborate on any projects that can make the world a better place
